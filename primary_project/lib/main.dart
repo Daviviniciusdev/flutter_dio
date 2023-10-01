@@ -16,7 +16,7 @@ class MeuApp extends StatelessWidget {
         body: Column(
           children: [
             Image.network(
-              'https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2023binary_LYNXMPEJ330OI-FILEDIMAGE.jpg?w=876&h=484&crop=1',
+              'http://cdn.geekwire.com/wp-content/uploads/2016/06/billgates.jpg',
             ),
             Container(
               padding: const EdgeInsets.all(20),
