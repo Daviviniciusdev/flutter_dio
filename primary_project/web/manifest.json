@@ -1,6 +1,6 @@
 {
-    "name": "primary_project",
-    "short_name": "primary_project",
+    "name": "flutter1",
+    "short_name": "flutter1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
